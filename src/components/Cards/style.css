@@ -1,0 +1,15 @@
+.card{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card{
+    width: 50%;
+    border: 1px solid gray;
+}
+.imgCard{
+    width: 150px;
+    height: 150px;
+}

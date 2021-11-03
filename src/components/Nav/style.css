@@ -1,0 +1,6 @@
+.myNav{
+    list-style: none;
+    display: flex;
+    width: 40%;
+    justify-content: space-around;
+}
